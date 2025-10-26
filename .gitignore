@@ -12,6 +12,10 @@
 /build
 
 # misc
+
+# Ignore Firebase config file
+src/firebaseConfig.js
+
 .DS_Store
 .env.local
 .env.development.local
