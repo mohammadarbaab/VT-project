@@ -100,12 +100,3 @@ _Once transcription is complete, the full text appears below._
 | **Transcription API** | AssemblyAI |
 | **Backend API** | Node.js + Express |
 | **Deployment** | Render (Frontend), Railway (Backend) |
-
----
-
-## ⚙️ **Setup & Run Instructions**
-
-### 🧩 Clone the Repository
-```bash
-git clone https://github.com/mohammadarbaab/VT-Project.git
-cd VT-Project
