@@ -127,8 +127,8 @@ const AIVideoTranscriber = () => {
           >
             <div
               className={`border-2 border-dashed rounded-xl p-12 text-center cursor-pointer transition-all duration-300 ${isUploading
-                ? "border-blue-400 bg-blue-50"
-                : "border-gray-300 hover:border-blue-500 hover:bg-blue-50"
+                  ? "border-blue-400 bg-blue-50"
+                  : "border-gray-300 hover:border-blue-500 hover:bg-blue-50"
                 }`}
               onDrop={handleDrop}
               onDragOver={handleDragOver}
@@ -194,6 +194,22 @@ const AIVideoTranscriber = () => {
                 <span className="text-green-700 font-medium">
                   Upload Successful!
                 </span>
+              </div>
+            )}
+
+            {/* ✅ VIDEO PREVIEW SECTION */}
+            {videoUrl && (
+              <div className="mt-8 flex flex-col items-center">
+                <h3 className="text-2xl font-semibold text-gray-800 mb-4">
+                  Preview Uploaded Video
+                </h3>
+                <video
+                  src={videoUrl}
+                  controls
+                  autoPlay
+                  muted
+                  className="rounded-xl shadow-lg w-full max-w-3xl border border-gray-300"
+                />
               </div>
             )}
 
