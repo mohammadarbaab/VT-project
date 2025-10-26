@@ -88,7 +88,7 @@ const AIVideoTranscriber = () => {
     setTranscript("");
 
     try {
-      const response = await fetch("http://localhost:5000/transcribe", {
+      const response = await fetch("https://vt-backend-production.up.railway.app/transcribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ videoUrl }),
