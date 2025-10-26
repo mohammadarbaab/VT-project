@@ -14,7 +14,6 @@
 # misc
 
 # Ignore Firebase config file
-src/firebaseConfig.js
 
 .DS_Store
 .env.local
