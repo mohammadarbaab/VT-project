@@ -10,6 +10,36 @@ Build a simple web app that lets a user upload a video (≤ 250 MB) via a drop z
 This project evaluates **end-to-end full-stack skills** — frontend development, cloud storage integration, transcription API integration, deployment, and documentation.
 
 ---
+## 🖼️ **Screenshots**
+
+Below are a few screenshots demonstrating the app flow — from upload to transcription output.
+
+### 🔹 Upload Page  
+_User uploads a video using the drag-and-drop zone._
+
+![Upload Page]()
+
+---
+
+### 🔹 Upload Progress  
+_Real-time upload progress shown with a progress bar._
+
+![Upload Progress]()
+
+---
+
+### 🔹 Transcript Display  
+_Once transcription is complete, the full text appears below._
+
+![Transcript Display]()
+
+---
+
+## 🎥 **Demo Video (Optional)**
+You can also view a short video demo of the full workflow (upload → transcription → display):
+
+➡️ [Watch the Demo]()  
+
 
 ## ✅ **Deliverables**
 
