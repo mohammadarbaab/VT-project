@@ -17,8 +17,8 @@ Below are a few screenshots demonstrating the app flow — from upload to transc
 ### 🔹 Upload Page  
 _User uploads a video using the drag-and-drop zone._
 
-![Upload Page]()<img width="864" height="544" alt="1stScreenSS" src="https://github.com/user-attachments/assets/9aa2c69a-ac82-42cf-8d66-7fa0ddcd6fec" />
-
+![Upload Page]()
+<img width="864" height="544" alt="1stScreenSS" src="https://github.com/user-attachments/assets/9aa2c69a-ac82-42cf-8d66-7fa0ddcd6fec" />
 
 ---
 
@@ -27,30 +27,21 @@ _Real-time upload progress shown with a progress bar._
 
 ![Upload Progress]()
 <img width="1120" height="545" alt="2ndScreenSS" src="https://github.com/user-attachments/assets/5c1a7a3a-c922-4f55-8ee5-51bbd61ccadb" />
-
 ---
 ![Upload Progress]()
 <img width="861" height="541" alt="3rdScreenSS" src="https://github.com/user-attachments/assets/3f2e21af-b629-4dd1-967f-e290c27342ab" />
 
 ### 🔹 Transcript Display  
 _Once transcription is complete, the full text appears below._
+
 <img width="442" height="474" alt="4thScreenSS" src="https://github.com/user-attachments/assets/fa97f68d-3bef-4bd8-a643-9924c317141f" />
 
 
 ![Transcript Display]()
+_Once transcription is complete, the full text appears below._
+
 <img width="631" height="607" alt="5thScreenSS" src="https://github.com/user-attachments/assets/720032a5-0d34-4090-9fef-d99fabf43937" />
-
-
 ---
-
-## 🎥 **Demo Video (Optional)**
-You can also view a short video demo of the full workflow (upload → transcription → display):
-
-➡️ [Watch the Demo]()  
-
-
-Uploading vsdc-sr 2025-10-27 00-42-35.mp4…
-
 
 ## ✅ **Deliverables**
 
