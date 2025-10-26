@@ -196,8 +196,6 @@ const AIVideoTranscriber = () => {
                 </span>
               </div>
             )}
-
-            {/* ✅ VIDEO PREVIEW SECTION */}
             {videoUrl && (
               <div className="mt-8 flex flex-col items-center">
                 <h3 className="text-2xl font-semibold text-gray-800 mb-4">
