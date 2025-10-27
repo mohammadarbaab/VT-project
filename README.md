@@ -17,30 +17,38 @@ Below are a few screenshots demonstrating the app flow — from upload to transc
 ### 🔹 Upload Page  
 _User uploads a video using the drag-and-drop zone._
 
-![Upload Page]()
-<img width="864" height="544" alt="1stScreenSS" src="https://github.com/user-attachments/assets/9aa2c69a-ac82-42cf-8d66-7fa0ddcd6fec" />
+<img width="1366" height="768" alt="1st-Ui-Ss" src="https://github.com/user-attachments/assets/f63ccf8b-1de4-4b15-9ffd-216c9b810744" />
 
 ---
 
 ### 🔹 Upload Progress  
 _Real-time upload progress shown with a progress bar._
+<img width="1366" height="768" alt="2nd-ui-Ss" src="https://github.com/user-attachments/assets/050310d3-d6a9-4d96-ae9f-79351193dbbe" />
 
-![Upload Progress]()
-<img width="1120" height="545" alt="2ndScreenSS" src="https://github.com/user-attachments/assets/5c1a7a3a-c922-4f55-8ee5-51bbd61ccadb" />
----
-![Upload Progress]()
-<img width="861" height="541" alt="3rdScreenSS" src="https://github.com/user-attachments/assets/3f2e21af-b629-4dd1-967f-e290c27342ab" />
+### 🔹 Upload Video with Firebase 
+_Real-time upload progress shown with a progress bar._
 
-### 🔹 Transcript Display  
+<img width="1366" height="768" alt="3rd-Ui-Ss" src="https://github.com/user-attachments/assets/84971b6a-5e06-47e4-86d2-67f61028b233" />
+
+
+### 🔹 Upload Video Done
 _Once transcription is complete, the full text appears below._
 
-<img width="442" height="474" alt="4thScreenSS" src="https://github.com/user-attachments/assets/fa97f68d-3bef-4bd8-a643-9924c317141f" />
+<img width="1366" height="768" alt="4th-Ui-Ss" src="https://github.com/user-attachments/assets/f85fb2e1-ae5a-4777-b7d0-6984d0ee8268" />
 
 
-![Transcript Display]()
+### 🔹 Upload Video 
 _Once transcription is complete, the full text appears below._
+<img width="1366" height="768" alt="5th-Ui-Ss" src="https://github.com/user-attachments/assets/71b088bf-a0f3-4c2f-ab01-6dcf8428760c" />
 
-<img width="631" height="607" alt="5thScreenSS" src="https://github.com/user-attachments/assets/720032a5-0d34-4090-9fef-d99fabf43937" />
+### 🔹 Generate Text Start
+_Once transcription is complete, the full text appears below._
+<img width="1366" height="768" alt="6th-Ui-Ss" src="https://github.com/user-attachments/assets/0b3fae67-3cc8-4190-81c9-23f6f8ef3088" />
+
+### 🔹 Generate Text Complete Just copy the text and Download the txt file
+_Once transcription is complete, the full text appears below._
+<img width="1366" height="768" alt="7th-ui-Ss" src="https://github.com/user-attachments/assets/ee559a3e-31c7-4c29-8272-1e292513cf8f" />
+
 ---
 
 ## ✅ **Deliverables**
